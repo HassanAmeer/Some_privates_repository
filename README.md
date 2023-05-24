@@ -21,3 +21,22 @@ that's during developed or others
   </td>
 </table>
 
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+    1. Intro
+   <img style='width:100%;' src='itlifegpt1.png'>
+  </td>
+  <td style='width:24%;'>
+    2. HomePage
+  <img style='width:100%;' src='itlifegpt2.png'>
+  </td>
+   <td style='width:24%;'>
+    3. DetailsPage
+  <img style='width:100%;' src='itlifegpt3.png'>
+  </td>
+   </td>
+   <td style='width:24%;'>
+    3. Content Upload screen
+<!--   <img style='width:100%;' src='mallmaveshi4.png'> -->
+  </td>
+</table>
