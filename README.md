@@ -79,12 +79,12 @@ that's during developed or others
   <img style='width:100%;' src='chamanmilk shop2.png'>
   </td>
    <td style='width:24%;'>
-    3. Review
+    3. Biling Details
   <img style='width:100%;' src='chamanmilk shop3.png'>
   </td>
    </td> 
    <td style='width:24%;'>
-    3. Content Upload screen
+    3. Review
   <img style='width:100%;' src='chamanmilk shop4.png'>
   </td>
 </table>
