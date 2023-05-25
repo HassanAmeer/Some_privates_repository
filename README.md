@@ -36,7 +36,7 @@ that's during developed or others
   </td>
    </td>
    <td style='width:24%;'>
-    3. 
+<!--     4.  -->
 <!--   <img style='width:100%;' src='mallmaveshi4.png'> -->
   </td>
 </table>
@@ -61,7 +61,7 @@ that's during developed or others
   </td>
    </td>
    <td style='width:24%;'>
-    3. 
+<!--     4.  -->
 <!--   <img style='width:100%;' src='mallmaveshi4.png'> -->
   </td>
 </table>
