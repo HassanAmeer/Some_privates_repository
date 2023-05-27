@@ -41,6 +41,25 @@ that's during developed or others
   </td>
 </table>
 
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+
+   <img style='width:100%;' src='scanner1.png'>
+  </td>
+  <td style='width:24%;'>
+
+  <img style='width:100%;' src='scanner2.png'>
+  </td>
+   <td style='width:24%;'>
+
+  <img style='width:100%;' src='scanner3.png'>
+  </td>
+   </td>
+   <td style='width:24%;'>
+
+  <img style='width:100%;' src='scanner4.png'>
+  </td>
+</table>
 
 
 <!--    after this when need to show the last .......................................... last area .....................................................-->
