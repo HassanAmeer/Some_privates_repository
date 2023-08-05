@@ -166,3 +166,14 @@ that's during developed or others
   </td>
 </table>
 
+<table style='border:none;width:100%'>
+  <td style='width:24%;max-width:25%;'>
+    1. HomePage
+   <img style='width:100%;' src='Screenshot_advance.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+    2. DetailsPage
+  <img style='width:100%;' src='Screenshot_home.png'>
+  </td>
+</table>
+
