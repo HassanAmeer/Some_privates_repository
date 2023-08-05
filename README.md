@@ -97,7 +97,7 @@ that's during developed or others
    </td>
    <td style='width:24%;'>
 
-  <img style='width:100%;' src='polyfiy8.png'>
+  <img style='width:100%;' src='polyfi8.png'>
   </td>
 </table>
 
