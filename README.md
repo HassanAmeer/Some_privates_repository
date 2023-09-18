@@ -1,6 +1,7 @@
 # privates_repository
 that's during developed or others
-#. MallMaweshi App 
+
+# MallMaweshi App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
     1. Intro
@@ -169,7 +170,7 @@ that's during developed or others
   <img style='width:100%;' src='chamanmilk shop4.png'>
   </td>
 </table>
-# Adv
+# TreatSick with Medicine Suggetions app
 <table style='border:none;width:100%'>
   <td style='width:24%;max-width:25%;'>
     1. HomePage
