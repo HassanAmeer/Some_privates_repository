@@ -247,20 +247,20 @@ that's during developed or others
 # Charge UR Self App For Charging Station Project
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
-    1. Intro
+   
    <img style='width:100%;' src='chargeurself_1.png'>
   </td>
   <td style='width:24%;'>
-    2. HomePage
+    
   <img style='width:100%;' src='chargeurself_2.png'>
   </td>
    <td style='width:24%;'>
-    3. DetailsPage
+    
   <img style='width:100%;' src='chargeurself_3.png'>
   </td>
    </td>
    <td style='width:24%;'>
-    3. Content Upload screen
+  
   <img style='width:100%;' src='chargeurself_4.png'>
   </td>
 </table>
