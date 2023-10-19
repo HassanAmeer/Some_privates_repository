@@ -223,3 +223,23 @@ that's during developed or others
   </td>
 </table>
 
+# 6 mart With Api structure
+<table style='border:none;width:100%'>
+  <td style='width:24%;max-width:25%;'>
+  
+   <img style='width:100%;' src='6mart_2.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+  
+  <img style='width:100%;' src='6mart_4.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+    =
+  <img style='width:100%;' src='6mart_5.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+   
+  <img style='width:100%;' src='6mart_7.png'>
+  </td>
+</table>
+
