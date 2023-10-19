@@ -211,7 +211,7 @@ that's during developed or others
   </td>
   <td style='width:24%;max-width:25%;'>
   
-  <img style='width:100%;' src=bloodsaver4.png'>
+  <img style='width:100%;' src='bloodsaver4.png'>
   </td>
   <td style='width:24%;max-width:25%;'>
     =
