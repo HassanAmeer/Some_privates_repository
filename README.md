@@ -183,3 +183,23 @@ that's during developed or others
   </td>
 </table>
 
+# H2O Multi Services With Laravel Api
+<table style='border:none;width:100%'>
+  <td style='width:24%;max-width:25%;'>
+    1. HomePage
+   <img style='width:100%;' src='h20_7.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+    2. DetailsPage
+  <img style='width:100%;' src='h20_8.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+    2. DetailsPage
+  <img style='width:100%;' src='h20_13.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+    2. DetailsPage
+  <img style='width:100%;' src='h20_14.png'>
+  </td>
+</table>
+
