@@ -224,6 +224,7 @@ that's during developed or others
 </table>
 
 # 6 mart With Api structure
+ we only fix bugs its by clients
 <table style='border:none;width:100%'>
   <td style='width:24%;max-width:25%;'>
   
