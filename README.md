@@ -25,15 +25,12 @@ that's during developed or others
 # Chat Gpt
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
-    1. Splash
    <img style='width:100%;' src='itlifegpt1.png'>
   </td>
   <td style='width:24%;'>
-    2. HomePage
   <img style='width:100%;' src='itlifegpt2.png'>
   </td>
    <td style='width:24%;'>
-    3. PLans Details
   <img style='width:100%;' src='itlifegpt3.png'>
   </td>
    </td>
@@ -130,11 +127,9 @@ that's during developed or others
 # Changan Auto Bilal App
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
-    1. HomePage
    <img style='width:100%;' src='changanauto1.png'>
   </td>
   <td style='width:24%;'>
-    2. Details
   <img style='width:100%;' src='changanauto2.png'>
   </td>
    <td style='width:24%;'>
@@ -174,11 +169,15 @@ that's during developed or others
 # TreatSick with Medicine Suggetions app
 <table style='border:none;width:100%'>
   <td style='width:24%;max-width:25%;'>
-    1. HomePage
    <img style='width:100%;' src='Screenshot_advance.png'>
   </td>
   <td style='width:24%;max-width:25%;'>
-    2. DetailsPage
+  <img style='width:100%;' src='Screenshot_home.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
+   <img style='width:100%;' src='Screenshot_advance.png'>
+  </td>
+  <td style='width:24%;max-width:25%;'>
   <img style='width:100%;' src='Screenshot_home.png'>
   </td>
 </table>
@@ -198,7 +197,6 @@ that's during developed or others
   <img style='width:100%;' src='h20_13.png'>
   </td>
   <td style='width:24%;max-width:25%;'>
-    2. DetailsPage
   <img style='width:100%;' src='h20_14.png'>
   </td>
 </table>
