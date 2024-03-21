@@ -60,6 +60,26 @@ that's during developed or others
   <img style='width:100%;' src='birdsapp6.png'>
   </td>
 </table>
+</table>
+ <table style='border:none;width:100%'>
+  <td style='width:24%;'>
+    1. Intro
+   <img style='width:100%;' src='salerozana1.png'>
+  </td>
+  <td style='width:24%;'>
+    2. HomePage
+  <img style='width:100%;' src='salerozana2.png'>
+  </td>
+   <td style='width:24%;'>
+    3. DetailsPage
+  <img style='width:100%;' src='salerozana3.png'>
+  </td>
+   </td>
+   <td style='width:24%;'>
+    3. Content Upload screen
+  <img style='width:100%;' src='salerozana5.png'>
+  </td>
+</table>
 # MallMaweshi App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
