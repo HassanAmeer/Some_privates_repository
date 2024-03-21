@@ -1,5 +1,5 @@
 # privates_repository
-that's during developed or others
+Some Private Apps
 
 # Shipper App 
  <table style='border:none;width:100%'>
@@ -17,6 +17,7 @@ that's during developed or others
   <img style='width:100%;' src='shiper4.png'>
   </td>
 </table>
+
 # VPN App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
@@ -33,6 +34,7 @@ that's during developed or others
   <img style='width:100%;' src='wizvpn5.png'>
   </td>
 </table>
+
 # Workout App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
@@ -49,6 +51,7 @@ that's during developed or others
   <img style='width:100%;' src='workout4.jpg'>
   </td>
 </table>
+
 # Flick NFC Tag App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
@@ -64,7 +67,8 @@ that's during developed or others
    <td style='width:24%;'>
   <img style='width:100%;' src='flick4.png'>
   </td>
-
+ </table>
+ 
   # Breeders hive like Animals, Birds App
 </table>
  <table style='border:none;width:100%'>
@@ -82,6 +86,8 @@ that's during developed or others
   <img style='width:100%;' src='birdsapp6.png'>
   </td>
 </table>
+
+# Saleroana With Laravel PushNotication
 </table>
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
@@ -98,6 +104,7 @@ that's during developed or others
   <img style='width:100%;' src='salerozana5.png'>
   </td>
 </table>
+
 # Wallpaper APP with Background Service Auto Changing
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
@@ -131,6 +138,7 @@ that's during developed or others
   <img style='width:100%;' src='wizstamp5.png'>
   </td>
 </table>
+
 # MallMaweshi App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
