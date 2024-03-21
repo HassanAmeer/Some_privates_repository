@@ -36,17 +36,17 @@ that's during developed or others
 # Workout App 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
-   <img style='width:100%;' src='workout1.png'>
+   <img style='width:100%;' src='workout1.jpg'>
   </td>
   <td style='width:24%;'>
-  <img style='width:100%;' src='workout2.png'>
+  <img style='width:100%;' src='workout2.jpg'>
   </td>
    <td style='width:24%;'>
-  <img style='width:100%;' src='workout3.png'>
+  <img style='width:100%;' src='workout3.jpg'>
   </td>
    </td>
    <td style='width:24%;'>
-  <img style='width:100%;' src='workout4.png'>
+  <img style='width:100%;' src='workout4.jpg'>
   </td>
 </table>
 # Flick NFC Tag App 
