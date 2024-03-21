@@ -119,9 +119,9 @@ Some Private Apps
    <td style='width:24%;'>
   <img style='width:100%;' src='wallpaper5.png'>
   </td>
+</table>
 
   # wizstamp like Stamp documents
-</table>
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
    <img style='width:100%;' src='wizstamp1.png'>
