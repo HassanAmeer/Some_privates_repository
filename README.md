@@ -87,8 +87,7 @@ Some Private Apps
   </td>
 </table>
 
-# Saleroana With Laravel PushNotication
-</table>
+# Saleroana With Laravel Push Notification
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
    <img style='width:100%;' src='salerozana1.png'>
