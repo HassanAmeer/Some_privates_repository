@@ -18,7 +18,7 @@ Some Private Apps
   </td>
 </table>
 
-# VPN App 
+# VPN App  
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
    <img style='width:100%;' src='wizvpn2.png'>
